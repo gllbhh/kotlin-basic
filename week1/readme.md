@@ -13,6 +13,8 @@ Figure 1. Exercise 1
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 ### Exercise 2
 
 ![](./img/e2.png)
@@ -43,6 +45,8 @@ Figure 7. Exercise 4 - Positive
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 ### Exercise 5
 
 ![](./img/e5.1.png)
@@ -52,6 +56,8 @@ Figure 8. Exercise 5 - Code
 Figure 9. Exercise 5 - Result
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ### Exercise 6
 
@@ -63,7 +69,7 @@ Figure 11. Exercise 6 - Result
 
 ---
 
-### Exercise 6
+### Exercise 7
 
 ![](./img/e7.1.png)
 Figure 12. Exercise 7 - Code
