@@ -74,7 +74,7 @@ Figure 11. Exercise 6 - Result
 ![](./img/e7.1.png)
 Figure 12. Exercise 7 - Code
 
-![](./img/e6.2.png)
+![](./img/e7.2.png)
 Figure 13. Exercise 7 - Result
 
 ---
